@@ -1,0 +1,7 @@
+AAPL:2 shares x ₹228 = ₹456
+GOOGL:1 shares x ₹3065 = ₹3065
+AMZN:4 shares x ₹3700 = ₹14800
+TSLA:3 shares x ₹265 = ₹795
+META:6 shares x ₹520 = ₹3120
+NFLX:3 shares x ₹635 = ₹1905
+TOTAL INVESTMENT IS : ₹24141
